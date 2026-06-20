@@ -64,6 +64,4 @@
 3. **RAG Response Generation**: ProSearchAI formulates a response based on the retrieved products and the user’s specific requirements.
 4. **Conversational Memory**: The conversation history is stored to allow for continuous, context-aware interactions.
 
-## About the Team
 
-**ProSearchAI** is crafted with passion by **Team Spambots**.
